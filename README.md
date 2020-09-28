@@ -1,4 +1,4 @@
-# An API for a Volunteering Platform
+# An API for a Task Volunteering Platform
 
 ## Background: 
 I built this API during a hackathon for a platform where volunteers can sign up to help elderly and people in risk groups with everyday tasks. 
